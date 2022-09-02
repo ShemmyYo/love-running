@@ -153,6 +153,9 @@ hr {
     margin-bottom: 50px;
 }
 
+.left-about-heading h2:hover {
+    font-size: 200%;
+}
 .right-about-heading {
     width: 60%;
     float: left;
@@ -163,6 +166,10 @@ hr {
 
 .right-about-heading h2 {
     text-align: right;
+}
+
+.right-about-heading h2:hover {
+    font-size: 200%;
 }
 
 .right-about-heading p {
